@@ -2,7 +2,7 @@ ansible==2.5.0
 asn1crypto==0.24.0
 bcrypt==3.1.4
 cffi==1.11.5
-cryptography==2.2.2
+cryptography==2.3
 Django==1.11.11
 django-extensions==2.0.7
 django-forms-bootstrap==3.1.0
